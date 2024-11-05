@@ -14,5 +14,11 @@ def run_duck():
     
     # Run the duck.c program with the provided input
     result = subprocess.run(['./duck', category, message], capture_output=True, text=True)
+    
+    # Optionally, you can store the result in a session or log it if needed
+    
+    # Redirect back to the index page
+    return redirect(url_for('index'))
+
 if __name__ == '__main__':
     app.run(debug=True)
