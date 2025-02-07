@@ -24,10 +24,10 @@ I began coding in **Class 6**, when my teacher introduced me to **C**, sparking 
 
 ## Education 🎓
 
-### **B.Tech, Computer Science & Engineering (Cyber Security)**  
+#### **B.Tech, Computer Science & Engineering (Cyber Security)**  
 📍 **IIIT Una** (September 2024 - Present)  
 
-### **All India Senior School Certificate Examination**  
+#### **All India Senior School Certificate Examination**  
 📍 **Podar International School, Ahmedabad** (2022-23)  
 
 ## Skills & Expertise 💡
@@ -60,30 +60,30 @@ I prioritize **problem-solving** over **syntax mastery**, allowing me to **quick
 
 ## Experience & Leadership 🏆  
 
-### **Contributor & Repository Maintainer**  
+#### **Contributor & Repository Maintainer**  
 - Active **open-source contributor** and project maintainer.  
 
-### **ATL Student Lead**  
+#### **ATL Student Lead**  
 - Led **student innovation projects** at **Podar International School**.  
 
-### **Technical Club Member – AAVESH, IIIT Una**  
+#### **Technical Club Member – AAVESH, IIIT Una**  
 - Engaged in **cybersecurity research** and **hardware-software integration**.  
 
 ## Projects 🛠️  
 
-### **Security Incident and Event Management (SIEM) Lab**  
+#### **Security Incident and Event Management (SIEM) Lab**  
 - Built a **SIEM lab** using **VMware & Splunk Enterprise** for security analysis.  
 
-### **Arduino RC Car – TechTatva 2k24 Winner**  
+#### **Arduino RC Car – TechTatva 2k24 Winner**  
 - Designed and programmed an **Arduino-powered RC car** for **Robo-Soccer**.  
 
-### **Quadcopter**  
+#### **Quadcopter**  
 - Built and calibrated a **drone** at the **Dronetech Workshop (MeitY & NIT Jalandhar)**.  
 
-### **Python-SQL Connector**  
+#### **Python-SQL Connector**  
 - Developed a **GUI-based SQL query tool** using **Tkinter & MySQL**.  
 
-### **YTMATE**  
+#### **YTMATE**  
 - Automated **YouTube video downloads** via Python scripting & API integration.  
 
 ## Collaboration & Growth 🤝  
