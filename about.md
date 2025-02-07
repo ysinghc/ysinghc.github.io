@@ -3,203 +3,102 @@ layout: inner
 title: About
 permalink: /about/
 ---
-## Markdown
+# About Me
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+## Yuvraj Singh Chauhan
 
-[Link to another page](/index.html).
+I am a detail-oriented, proactive, and adaptable individual with a strong foundation in **cybersecurity, software development, and embedded systems**. Passionate about continuous learning, innovation, and creating impactful solutions through technology, I thrive in dynamic environments that challenge my problem-solving skills. As a **collaborative team player and effective communicator**, I am dedicated to contributing meaningfully to open-source projects and professional teams.
 
-There should be whitespace between paragraphs.
+## My Coding Journey
 
-# Header 1
+I began my coding journey in **Class 6** when my teacher introduced me to **C**, sparking a passion for computer science and technology. My enthusiasm for the field grew when I started watching **Google I/O in 2017**; I was amazed by this thing called **Artificial Intelligence**. At that time, the development of truly AI-driven software was accomplished by people with years of research and strong programming fundamentals. Since then, I’ve focused on broadening my theoretical and technical knowledge and strengthening my problem-solving skills.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Key Milestones 🚀
+- **Completed Harvard's CS50 (Nov 2021) 📚**: This course solidified my understanding of computer science fundamentals and broadened my technical horizons.
+- **Led the school's ATAL Tinkering Lab 🛠️**: Created hardware projects using Arduino and Raspberry Pi, fostering hands-on learning and innovation.
+- **Explored the Linux kernel and various Linux distributions 🐧**: Tinkerd with manual installation and configuration of Arch Linux, deepening my understanding of operating systems and system internals.
+- **Gained proficiency with Git and GitHub 🔧**: Acquired skills in version control and development tools essential for collaborative coding.
+- **Participated in Hacktoberfest 🎉**: Earned a shirt and stickers for my contributions to open-source projects.
 
-## Header 2
+## Education
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Bachelor of Technology, Computer Science & Engineering (Cyber Security)  
+**Indian Institute of Information Technology, Una**  
+*September 2024 - Present*
 
-### Header 3
+### All India Senior School Certificate Examination  
+**Podar International School, Ahmedabad**  
+*2022-23*
 
-{% highlight js %}
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-{% endhighlight %}
+## Skills & Expertise
 
-{% highlight ruby %}
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-{% endhighlight %}
+- **Programming:** Python, C/C++, Bash and Shell Scripting
+- **Version Control & Collaboration:** Git, GitHub
+- **Hardware & Embedded Systems:** Arduino, Raspberry Pi, Breadboard, Circuit Design
+- **Cloud & Security:** Security Incident and Event Management (SIEM), Open Source Security
 
-#### Header 4
+## Certifications
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- **CompTIA Security+ Cert Prep 2: Threats, Vulnerabilities, and Mitigations** – LinkedIn Learning
+- **Dronetech: Exploring Drone Technology, Ethics, and Applications** – Ministry of Electronics & IT and NIT Jalandhar
 
-##### Header 5
+## My Focus and Approach 🔍
+Due to the nature of my introduction to computer science and technology, I tend to focus on projects that either:
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+- **Increase personal efficiency 💡**
+- **Create a significant impact on the public 🌍**
 
-###### Header 6
+This approach allows me to stay focused and motivated during the difficult parts of projects.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## Languages I Am Proficient In
+- **Proficient in C and Python 💻**
+- **Syntactical knowledge of C++, HTML, and CSS 🌐**
+- **Basic knowledge of Rust, Java, and JavaScript 🌟**
 
-### There's a horizontal rule below this.
+I haven’t focused extensively on mastering individual languages, so I might not know all the technical terms. However, I have strong practical knowledge and experience with many languages, and a solid grasp of programming fundamentals. This allows me to quickly pick up new languages and become proficient in them.
 
----
+## Experience & Leadership
 
-### Here is an unordered list:
+### Contributor & Repository Maintainer
+- Active contributor to open-source projects and community-driven development initiatives.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### ATL Student Lead
+- Led student innovation projects at **Podar International School, Ahmedabad**, working on hardware and software solutions.
 
-### And an ordered list:
+### Technical Club Member – AAVESH, IIIT Una
+- Part of the **AAVESH Technical Club**, engaging in cybersecurity research and hardware-software integration projects.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+## Projects
 
-### And a nested list:
+### **Security Incident and Event Management (SIEM) Lab**
+- Created a **SIEM lab** using VMware Workstation and **Splunk Enterprise**, gaining hands-on experience in security monitoring and log analysis.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+### **Arduino RC Car** – TechTatva 2k24 Winner
+- Designed and programmed an **Arduino-powered RC car** for the **Robo-Soccer event**, leading my team to victory with custom code and circuit design.
 
-### Wide image
+### **Quadcopter**
+- Built and calibrated a **quad-copter** during the **Dronetech Workshop** at **MeitY and NIT Jalandhar**.
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### **Python-SQL Connector**
+- Developed a **graphical interface for running SQL queries** using Python’s `tkinter` and MySQL.
 
-### Definition lists can be used with HTML syntax.
+### **YTMATE**
+- Created a **Python script to download YouTube videos and playlists**, implementing automation and API integration.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Collaboration and Growth 🤝
+I am eager to collaborate on various projects, whether it’s:
 
-{% highlight txt %}
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-{% endhighlight %}
+- **Exploring syntactical knowledge of different languages 💬**
+- **Creating projects that broaden my understanding of programming and the world of computer science 🌐**
 
-{% highlight txt %}
-The final element.
-{% endhighlight %}
+Let’s build something great together!
+
+## Get in Touch
+📍 Ahmedabad, Gandhinagar, Gujarat  
+📧 [ysinghcin@gmail.com](mailto:ysinghcin@gmail.com)  
+🌐 [ysinghc.me](https://ysinghc.me)  
+📞 9724254549
 
 ---
 
-## Syntax highlighting
-
-Jekyll has [built in support](https://jekyllrb.com/docs/templates/#code-snippet-highlighting) for syntax highlighting of over 60 languages thanks to [Rouge](http://rouge.jneen.net/).
-
-To render a code block with syntax highlighting, surround your code as follows:
-
-{% highlight markdown %}
-{% raw %}
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
-{% endraw %}
-{% endhighlight %}
-
-[Pygments](http://pygments.org/) styles are present under section 6.0 of `css/style.scss` for customization.
-
-### Examples
-
----
-
-#### Bash
-
-{% highlight bash %}
->_ ssh -i ~/.ssh/id_rsa account@host.com
-account@host:~$
-$ var="my-value"
-$ echo $var
-my-value
-$ logout
-{% endhighlight %}
-
-#### HTML
-
-{% highlight html %}
-<!DOCTYPE html>
-<html>
- <head>
-   <meta charset="UTF-8">
-   <title>title</title>
- </head>
- <body>
-
- </body>
-</html>
-{% endhighlight %}
-
-#### CSS
-
-{% highlight css %}
-/*--------------------------------------------------------------
-	1.0 Defaults
---------------------------------------------------------------*/
-
-@media (min-width: 1200px) {
-  .container {
-    width: 1200px;
-  }
-}
-
-body {
-  background-color: #e9edf0;
-  @extend %opensans;
-  -webkit-font-smoothing: antialiased;
-}
-{% endhighlight %}
-
-#### YAML
-
-{% highlight yaml %}
-### Phantom settings
-paginate: 10
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
-
-#### Phantom Navigation menu
-enable_nav: true
-nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
-{% endhighlight %}
+This **About** page serves as a comprehensive introduction to my professional background, skills, and projects. I am always open to collaboration and new opportunities in cybersecurity, software development, and embedded systems.
