@@ -17,8 +17,8 @@ title: "Hello. I'm Yuvraj Singh Chauhan."
 email: '24429@iiitu.ac.in'
 description: "I'm a Computer Science student at Indian Institute of Information Technology Una. I am interested in backend development and Cyber Security."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ysinghc.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: ''
+url: "https://ysinghc.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
+linkedin_username: 'ysinghch'
 github_username: 'ysinghc'
 medium_username: ''
 
