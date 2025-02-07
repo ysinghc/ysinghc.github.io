@@ -1,6 +1,42 @@
 ---
 ---
+#projects {
+  padding: 50px 0;
+  background-color: #f9f9f9;
+}
 
+#projects .container {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#projects h2 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+#projects .project {
+  margin-bottom: 30px;
+}
+
+#projects .project h3 {
+  font-size: 1.75em;
+  margin-bottom: 10px;
+}
+
+#projects .project h3 a {
+  text-decoration: none;
+  color: #333;
+}
+
+#projects .project h3 a:hover {
+  text-decoration: underline;
+}
+
+#projects .project p {
+  font-size: 1.2em;
+}
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------
