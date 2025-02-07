@@ -3,102 +3,104 @@ layout: inner
 title: About
 permalink: /about/
 ---
+
 # About Me
 
 ## Yuvraj Singh Chauhan
 
-I am a detail-oriented, proactive, and adaptable individual with a strong foundation in **cybersecurity, software development, and embedded systems**. Passionate about continuous learning, innovation, and creating impactful solutions through technology, I thrive in dynamic environments that challenge my problem-solving skills. As a **collaborative team player and effective communicator**, I am dedicated to contributing meaningfully to open-source projects and professional teams.
+I am a **detail-oriented, proactive, and adaptable** individual with a strong foundation in **cybersecurity, software development, and embedded systems**. Passionate about **continuous learning, innovation, and impactful technology**, I thrive in dynamic environments that challenge my problem-solving skills. As a **collaborative team player and effective communicator**, I contribute meaningfully to **open-source projects and professional teams**.
 
 ## My Coding Journey
 
-I began my coding journey in **Class 6** when my teacher introduced me to **C**, sparking a passion for computer science and technology. My enthusiasm for the field grew when I started watching **Google I/O in 2017**; I was amazed by this thing called **Artificial Intelligence**. At that time, the development of truly AI-driven software was accomplished by people with years of research and strong programming fundamentals. Since then, I’ve focused on broadening my theoretical and technical knowledge and strengthening my problem-solving skills.
+I began coding in **Class 6**, when my teacher introduced me to **C**, sparking a passion for **computer science and technology**. My enthusiasm grew after watching **Google I/O 2017**, where I was fascinated by **Artificial Intelligence**. Back then, AI-driven software was built by researchers with strong programming fundamentals, inspiring me to **broaden my theoretical and technical knowledge** while strengthening my **problem-solving skills**.
 
 ## Key Milestones 🚀
-- **Completed Harvard's CS50 (Nov 2021) 📚**: This course solidified my understanding of computer science fundamentals and broadened my technical horizons.
-- **Led the school's ATAL Tinkering Lab 🛠️**: Created hardware projects using Arduino and Raspberry Pi, fostering hands-on learning and innovation.
-- **Explored the Linux kernel and various Linux distributions 🐧**: Tinkerd with manual installation and configuration of Arch Linux, deepening my understanding of operating systems and system internals.
-- **Gained proficiency with Git and GitHub 🔧**: Acquired skills in version control and development tools essential for collaborative coding.
-- **Participated in Hacktoberfest 🎉**: Earned a shirt and stickers for my contributions to open-source projects.
 
-## Education
+- **Harvard's CS50 (Nov 2021) 📚** – Strengthened my understanding of **computer science fundamentals**.  
+- **Led ATAL Tinkering Lab 🛠️** – Created **hardware projects** using Arduino and Raspberry Pi.  
+- **Explored Linux Kernel & Distros 🐧** – Installed and configured **Arch Linux** manually.  
+- **Proficient in Git & GitHub 🔧** – Gained expertise in **version control and collaboration**.  
+- **Hacktoberfest Participant 🎉** – Contributed to **open-source projects** and earned a **prize**.  
 
-### Bachelor of Technology, Computer Science & Engineering (Cyber Security)  
-**Indian Institute of Information Technology, Una**  
-*September 2024 - Present*
+## Education 🎓
 
-### All India Senior School Certificate Examination  
-**Podar International School, Ahmedabad**  
-*2022-23*
+### **B.Tech, Computer Science & Engineering (Cyber Security)**  
+📍 **IIIT Una** (September 2024 - Present)  
 
-## Skills & Expertise
+### **All India Senior School Certificate Examination**  
+📍 **Podar International School, Ahmedabad** (2022-23)  
 
-- **Programming:** Python, C/C++, Bash and Shell Scripting
-- **Version Control & Collaboration:** Git, GitHub
-- **Hardware & Embedded Systems:** Arduino, Raspberry Pi, Breadboard, Circuit Design
-- **Cloud & Security:** Security Incident and Event Management (SIEM), Open Source Security
+## Skills & Expertise 💡
 
-## Certifications
+- **Programming** – Python, C, C++, Bash/Shell Scripting  
+- **Version Control** – Git, GitHub  
+- **Embedded Systems** – Arduino, Raspberry Pi, Circuit Design  
+- **Cloud & Security** – SIEM, Open-Source Security  
 
-- **CompTIA Security+ Cert Prep 2: Threats, Vulnerabilities, and Mitigations** – LinkedIn Learning
-- **Dronetech: Exploring Drone Technology, Ethics, and Applications** – Ministry of Electronics & IT and NIT Jalandhar
+## Certifications 📜
 
-## My Focus and Approach 🔍
-Due to the nature of my introduction to computer science and technology, I tend to focus on projects that either:
+- **CompTIA Security+ Cert Prep 2** – LinkedIn Learning  
+- **Dronetech: Exploring Drone Technology** – MeitY & NIT Jalandhar  
 
-- **Increase personal efficiency 💡**
-- **Create a significant impact on the public 🌍**
+## My Focus & Approach 🔍  
 
-This approach allows me to stay focused and motivated during the difficult parts of projects.
+I focus on projects that:  
+- **Increase personal efficiency 💡**  
+- **Create a significant public impact 🌍**  
 
-## Languages I Am Proficient In
-- **Proficient in C and Python 💻**
-- **Syntactical knowledge of C++, HTML, and CSS 🌐**
-- **Basic knowledge of Rust, Java, and JavaScript 🌟**
+This mindset helps me stay **motivated and productive** throughout challenging projects.
 
-I haven’t focused extensively on mastering individual languages, so I might not know all the technical terms. However, I have strong practical knowledge and experience with many languages, and a solid grasp of programming fundamentals. This allows me to quickly pick up new languages and become proficient in them.
+## Languages & Technologies 🖥️  
 
-## Experience & Leadership
+- **Proficient** – C, Python  
+- **Working Knowledge** – C++, HTML, CSS  
+- **Basic Familiarity** – Rust, Java, JavaScript  
 
-### Contributor & Repository Maintainer
-- Active contributor to open-source projects and community-driven development initiatives.
+I prioritize **problem-solving** over **syntax mastery**, allowing me to **quickly adapt** to new languages.
 
-### ATL Student Lead
-- Led student innovation projects at **Podar International School, Ahmedabad**, working on hardware and software solutions.
+## Experience & Leadership 🏆  
 
-### Technical Club Member – AAVESH, IIIT Una
-- Part of the **AAVESH Technical Club**, engaging in cybersecurity research and hardware-software integration projects.
+### **Contributor & Repository Maintainer**  
+- Active **open-source contributor** and project maintainer.  
 
-## Projects
+### **ATL Student Lead**  
+- Led **student innovation projects** at **Podar International School**.  
 
-### **Security Incident and Event Management (SIEM) Lab**
-- Created a **SIEM lab** using VMware Workstation and **Splunk Enterprise**, gaining hands-on experience in security monitoring and log analysis.
+### **Technical Club Member – AAVESH, IIIT Una**  
+- Engaged in **cybersecurity research** and **hardware-software integration**.  
 
-### **Arduino RC Car** – TechTatva 2k24 Winner
-- Designed and programmed an **Arduino-powered RC car** for the **Robo-Soccer event**, leading my team to victory with custom code and circuit design.
+## Projects 🛠️  
 
-### **Quadcopter**
-- Built and calibrated a **quad-copter** during the **Dronetech Workshop** at **MeitY and NIT Jalandhar**.
+### **Security Incident and Event Management (SIEM) Lab**  
+- Built a **SIEM lab** using **VMware & Splunk Enterprise** for security analysis.  
 
-### **Python-SQL Connector**
-- Developed a **graphical interface for running SQL queries** using Python’s `tkinter` and MySQL.
+### **Arduino RC Car – TechTatva 2k24 Winner**  
+- Designed and programmed an **Arduino-powered RC car** for **Robo-Soccer**.  
 
-### **YTMATE**
-- Created a **Python script to download YouTube videos and playlists**, implementing automation and API integration.
+### **Quadcopter**  
+- Built and calibrated a **drone** at the **Dronetech Workshop (MeitY & NIT Jalandhar)**.  
 
-## Collaboration and Growth 🤝
-I am eager to collaborate on various projects, whether it’s:
+### **Python-SQL Connector**  
+- Developed a **GUI-based SQL query tool** using **Tkinter & MySQL**.  
 
-- **Exploring syntactical knowledge of different languages 💬**
-- **Creating projects that broaden my understanding of programming and the world of computer science 🌐**
+### **YTMATE**  
+- Automated **YouTube video downloads** via Python scripting & API integration.  
 
-Let’s build something great together!
+## Collaboration & Growth 🤝  
 
-## Get in Touch
-📍 Ahmedabad, Gandhinagar, Gujarat  
-📧 [ysinghcin@gmail.com](mailto:ysinghcin@gmail.com)  
-🌐 [ysinghc.me](https://ysinghc.me)  
-📞 9724254549
+I am always open to:  
+- **Exploring programming languages**  
+- **Building innovative, impactful projects**  
+
+Let’s create something **amazing** together! 🚀  
+
+## Get in Touch 📩  
+
+📍 **Ahmedabad, Gandhinagar, Gujarat**  
+📧 **[ysinghcin@gmail.com](mailto:ysinghcin@gmail.com)**  
+🌐 **[ysinghc.me](https://ysinghc.me)**  
+📞 **9724254549**  
 
 ---
 
-This **About** page serves as a comprehensive introduction to my professional background, skills, and projects. I am always open to collaboration and new opportunities in cybersecurity, software development, and embedded systems.
+This **About** page is a comprehensive introduction to my **background, skills, and projects**. I am eager to collaborate on **cybersecurity, software development, and embedded systems** projects!
