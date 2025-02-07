@@ -1,43 +1,205 @@
 ---
-layout: page  
-title: About  
+layout: inner
+title: About
+permalink: /about/
+---
+## Markdown
+
+Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+
+[Link to another page](/index.html).
+
+There should be whitespace between paragraphs.
+
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+{% highlight js %}
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+{% endhighlight %}
+
+{% highlight ruby %}
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+{% endhighlight %}
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
 ---
 
-I began my coding journey in **Class 6** when my teacher introduced me to C, sparking a passion for computer science and technology. My enthusiasm for the field grew when I started watching **Google I/O** in 2017; I was amazed by this thing called Artificial Intelligence. At that time, the development of truly **Artificially Intelligent software** was accomplished by people with years of research and strong programming fundamentals. Since then, I’ve focused on broadening my theoretical and technical knowledge and strengthening my problem-solving skills.
+### Here is an unordered list:
 
-[Resume](/assets/resume.pdf)
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
 
-### Key Milestones 🚀
+### And an ordered list:
 
-- **Completed Harvard's CS50** (Nov 2021) 📚: This course solidified my understanding of computer science fundamentals and broadened my technical horizons.
-- **Developed multiple projects** in Python and C 🐍💻: Created tools for mathematical problem-solving, including linear programming and matrix calculations.
-- **Created a Python-SQL interface** 🗃️: Developed a user-friendly GUI to improve interaction with SQL databases.
-- **Built a YouTube video downloader** 📹: Designed a tool for downloading both single videos and playlists in the highest quality.
-- **Led the school's ATAL Tinkering Lab** 🛠️: Created hardware projects using Arduino and Raspberry Pi, fostering hands-on learning and innovation.
-- **Explored the Linux kernel and various Linux distributions** 🐧: Successfully created a full-fledged OS using Arch Linux, deepening my understanding of operating systems and system internals.
-- **Gained proficiency with Git and GitHub** 🔧: Acquired skills in version control and development tools essential for collaborative coding.
-- **Participated in Hacktoberfest** 🎉: Earned a shirt and stickers for my contributions to open-source projects.
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
 
-### My Focus and Approach 🔍
+### And a nested list:
 
-Due to the nature of my introduction to computer science and technology, I tend to focus on projects that either:
-- **Automate tasks for personal efficiency** 💡
-- **Create a significant impact on the public** 🌍
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
 
-This approach allows me stay focused and motivated during the difficult part of the projects.
+### Wide image
 
-### Languages I Am Proficient In
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-- **Proficient** in **C** and **Python** 💻
-- **Syntactical knowledge** of **C++**, **HTML**, and **CSS** 🌐
-- **Basic knowledge** of **Rust**, **Java**, and **JavaScript** 🌟
+### Definition lists can be used with HTML syntax.
 
-I haven’t focused extensively on mastering individual languages, so I might not know all the technical terms. However, I have strong practical knowledge and experience with many languages, and a solid grasp of programming fundamentals. This allows me to quickly pick up new languages and become proficient in them.
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 
-### Collaboration and Growth 🤝
+{% highlight txt %}
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+{% endhighlight %}
 
-I am eager to collaborate on various projects, whether it’s:
-- **Exploring syntactical knowledge** of different languages 💬
-- **Creating projects** that broaden my understanding of programming and the world of computer science 🌐
+{% highlight txt %}
+The final element.
+{% endhighlight %}
 
-Let’s build something great together!
+---
+
+## Syntax highlighting
+
+Jekyll has [built in support](https://jekyllrb.com/docs/templates/#code-snippet-highlighting) for syntax highlighting of over 60 languages thanks to [Rouge](http://rouge.jneen.net/).
+
+To render a code block with syntax highlighting, surround your code as follows:
+
+{% highlight markdown %}
+{% raw %}
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+{% endraw %}
+{% endhighlight %}
+
+[Pygments](http://pygments.org/) styles are present under section 6.0 of `css/style.scss` for customization.
+
+### Examples
+
+---
+
+#### Bash
+
+{% highlight bash %}
+>_ ssh -i ~/.ssh/id_rsa account@host.com
+account@host:~$
+$ var="my-value"
+$ echo $var
+my-value
+$ logout
+{% endhighlight %}
+
+#### HTML
+
+{% highlight html %}
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="UTF-8">
+   <title>title</title>
+ </head>
+ <body>
+
+ </body>
+</html>
+{% endhighlight %}
+
+#### CSS
+
+{% highlight css %}
+/*--------------------------------------------------------------
+	1.0 Defaults
+--------------------------------------------------------------*/
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1200px;
+  }
+}
+
+body {
+  background-color: #e9edf0;
+  @extend %opensans;
+  -webkit-font-smoothing: antialiased;
+}
+{% endhighlight %}
+
+#### YAML
+
+{% highlight yaml %}
+### Phantom settings
+paginate: 10
+footer_text: '© 2018 Jami Gibbs'
+admin_name: 'Jami Gibbs'
+google_analytics: "UA-9999999-99" # Update with your own tracking ID
+
+#### Phantom Navigation menu
+enable_nav: true
+nav_item:
+  - { url: '/', text: 'Home' }
+  - { url: '/about', text: 'About' }
+{% endhighlight %}

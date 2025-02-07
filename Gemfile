@@ -1,5 +1,4 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-gem "jekyll", "~> 3.8"
-gem "jekyll-paginate", "~> 1.1"
-gem "jekyll-remote-theme", "~> 0.3"
+source "https://rubygems.org"
+gemspec
