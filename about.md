@@ -86,21 +86,6 @@ I prioritize **problem-solving** over **syntax mastery**, allowing me to **quick
 #### **YTMATE**  
 - Automated **YouTube video downloads** via Python scripting & API integration.  
 
-## Collaboration & Growth 🤝  
-
-I am always open to:  
-- **Exploring programming languages**  
-- **Building innovative, impactful projects**  
-
-Let’s create something **amazing** together! 🚀  
-
-## Get in Touch 📩  
-
-📍 **Ahmedabad, Gandhinagar, Gujarat**  
-📧 **[ysinghcin@gmail.com](mailto:ysinghcin@gmail.com)**  
-🌐 **[ysinghc.me](https://ysinghc.me)**  
-📞 **9724254549**  
-
 ---
 
 This **About** page is a comprehensive introduction to my **background, skills, and projects**. I am eager to collaborate on **cybersecurity, software development, and embedded systems** projects!
