@@ -1,20 +1,18 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const starfield = document.querySelector('.starfield');
     const linksContainer = document.querySelector('.links-container');
     const container = document.querySelector('.container');
     const textContainer = document.querySelector('.text-container');
+    const solDaysSpan = document.getElementById('sol-days');
 
-    const numStars = 100;
-    for (let i = 0; i < numStars; i++) {
-        const star = document.createElement('div');
-        star.classList.add('star');
-        star.style.width = `${Math.random() * 2 + 1}px`;
-        star.style.height = star.style.width;
-        star.style.left = `${Math.random() * 100}%`;
-        star.style.top = `${Math.random() * 100}%`;
-        star.style.animationDuration = `${Math.random() * 2 + 1}s`;
-        starfield.appendChild(star);
+    function calculateSolDays(birthDate) {
+        const birthDateTime = new Date(birthDate).getTime();
+        const now = new Date().getTime();
+        const differenceMs = now - birthDateTime;
+        const solDifference = Math.floor(differenceMs / (1000 * 60 * 60 * 24.62));
+        return solDifference;
     }
+
+    solDaysSpan.textContent = calculateSolDays('2005-01-29');
 
     setTimeout(() => {
         linksContainer.style.opacity = '1';
