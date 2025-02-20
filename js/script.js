@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const now = new Date().getTime();
         const differenceMs = now - birthDateTime;
         const solDifference = Math.floor(differenceMs / (1000 * 60 * 60 * 24.62));
-        const solActual = Math.floor((solDifference * (73 / 75));
+        const solActual = Math.floor(solDifference * (73 / 75));
         return solActual;
     }
 
