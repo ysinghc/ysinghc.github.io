@@ -9,10 +9,11 @@ document.addEventListener('DOMContentLoaded', () => {
         const now = new Date().getTime();
         const differenceMs = now - birthDateTime;
         const solDifference = Math.floor(differenceMs / (1000 * 60 * 60 * 24.62));
-        return solDifference;
+        const solActual = (solDifference/75)*73;
+        return solActual;
     }
 
-    solDaysSpan.textContent = calculateSolDays('2005-01-29');
+    solDaysSpan.textContent = calculateSolDays('2005-09-29');
 
     setTimeout(() => {
         linksContainer.style.opacity = '1';
