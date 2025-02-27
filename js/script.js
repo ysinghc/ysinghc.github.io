@@ -3,8 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const container = document.querySelector('.container');
     const textContainer = document.querySelector('.text-container');
     const solDaysSpan = document.getElementById('sol-days');
-    const infoButton = document.getElementById('info-button');
-    const aboutContainer = document.getElementById('about-container');
 
     function calculateSolDays(birthDate) {
         const birthDateTime = new Date(birthDate).getTime();
@@ -30,22 +28,4 @@ document.addEventListener('DOMContentLoaded', () => {
             fill: "forwards"
         });
     }, 2000);
-
-    let isFlipped = false;
-
-    infoButton.addEventListener('click', () => {
-        if (!isFlipped) {
-            textContainer.style.transform = 'rotateY(180deg)';
-            aboutContainer.style.display = 'block';
-            fetch('about.md')
-                .then(response => response.text())
-                .then(data => {
-                    aboutContainer.innerHTML = marked(data);
-                });
-        } else {
-            textContainer.style.transform = 'rotateY(0deg)';
-            aboutContainer.style.display = 'none';
-        }
-        isFlipped = !isFlipped;
-    });
 });
