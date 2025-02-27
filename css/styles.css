@@ -196,3 +196,45 @@ h1 {
      .subtext{font-size: 0.9rem;}
      .mission-parameters-label{font-size: 1rem;}
 }
+
+/* P1ef2 */
+#info-button {
+    background-color: #f08c35;
+    color: #000;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+#info-button:hover {
+    background-color: #d07a2d;
+    transform: scale(1.1);
+}
+
+/* P51c9 */
+.text-container.transformed {
+    transform: rotateY(180deg);
+}
+
+.profile-pic-container.transformed {
+    transform: rotateY(180deg);
+}
+
+/* P3a80 */
+#about-container {
+    display: none;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #eee;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    text-align: left;
+    font-family: 'Roboto Condensed', sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+}
