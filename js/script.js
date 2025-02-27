@@ -31,13 +31,21 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }, 2000);
 
+    let isFlipped = false;
+
     infoButton.addEventListener('click', () => {
-        textContainer.style.transform = 'rotateY(180deg)';
-        aboutContainer.style.display = 'block';
-        fetch('about.md')
-            .then(response => response.text())
-            .then(data => {
-                aboutContainer.innerHTML = marked(data);
-            });
+        if (!isFlipped) {
+            textContainer.style.transform = 'rotateY(180deg)';
+            aboutContainer.style.display = 'block';
+            fetch('about.md')
+                .then(response => response.text())
+                .then(data => {
+                    aboutContainer.innerHTML = marked(data);
+                });
+        } else {
+            textContainer.style.transform = 'rotateY(0deg)';
+            aboutContainer.style.display = 'none';
+        }
+        isFlipped = !isFlipped;
     });
 });
